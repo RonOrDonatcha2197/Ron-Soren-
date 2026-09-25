@@ -1,5 +1,5 @@
 
-<img width="300" height="200" alt="Matthew_Patel-removebg-preview" src="https://github.com/user-attachments/assets/9466bc5c-f491-4b2e-973f-acc80c0c3f56" />
+<img width="200" height="200" alt="Matthew_Patel-removebg-preview" src="https://github.com/user-attachments/assets/9466bc5c-f491-4b2e-973f-acc80c0c3f56" />
 
 <h1>Ron-Soren</h1>
 <body> </body>
