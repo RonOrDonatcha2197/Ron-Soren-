@@ -1,4 +1,5 @@
-<img width="230" height="321" alt="Screenshot 2026-09-23 183544" src="https://github.com/user-attachments/assets/8052fa2a-2c5f-4aae-aa84-da172c50a34a" />
+<img width="230" height="321" alt="Screenshot 2026-09-23 183544" src="https://github.com/user-attachments/assets/8052fa2a-2c5f-4aae-aa84-da172c50a34a" /> 
+<img width="500" height="500" alt="Matthew_Patel-removebg-preview" src="https://github.com/user-attachments/assets/9466bc5c-f491-4b2e-973f-acc80c0c3f56" />
 
 <h1>Ron-Soren</h1>
 <body> </body>
